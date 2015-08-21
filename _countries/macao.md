@@ -1,7 +1,7 @@
 ---
 layout: country
 
-title: Mexico
+title: Macao
 flag_url: http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/840px-Flag_of_Mexico.svg.png
 
 answer: Yes!
