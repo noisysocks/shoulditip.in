@@ -1,5 +1,9 @@
 <select class="picker" onchange="window.location = this.value;">
+  <option value=""></option>
   {% for country in site.countries %}
-    <option value="{{ country.url }}">{{ country.title }}</option>
+    <option value="{{ country.url }}"
+            {% if page.url == country.url %}selected{% endif %}>
+      {{ country.title }}
+    </option>
   {% endfor %}
 </select>
