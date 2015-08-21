@@ -1,0 +1,9 @@
+body {
+  background: #f7f6f6;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
+}
+
+.flag {
+  height: 200px;
+}
