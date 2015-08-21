@@ -6,16 +6,19 @@ layout: default
   <img class="flag" src="{{ page.flag_url }}" alt="">
 </p>
 
-<h1>Should I Tip In {{ page.title }}?</h1>
+<h1 class="title">
+  Should I Tip In<br>
+  <b>{{ page.title }}?</b>
+</h1>
 
-<p>
-  <strong class="answer">
+<p class="answers {{ page.answer_class }}">
+  <strong class="regular">
     {{ page.answer }}
   </strong>
 
   <br>
 
-  <span class="local-answer">
+  <span class="local">
     ({{ page.local_answer }})
   </span>
 </p>
@@ -56,7 +59,4 @@ layout: default
   {{ page.extra_info }}
 </p>
 
-<p>
-  Should I tip in…<br>
-  {% include picker.html %}
-</p>
+{% include picker.html %}

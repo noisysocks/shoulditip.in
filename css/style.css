@@ -1,24 +1,51 @@
+@import url(//fonts.googleapis.com/css?family=Lato:400,700);
+
 body {
-  background: #f4f4f4;
-  font-family: sans-serif;
+  background: #edecee;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
   margin: 0 auto;
   max-width: 600px;
+  padding: 0 10px;
   text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.6em;
+  margin: 1.5em 0;
 }
 
 .flag {
   height: 200px;
+  max-width: 100%;
 }
 
-.answer {
-  font-size: 50px;
-  text-transform: uppercase;
-}
-
-.local-answer {
+.title {
   font-size: 30px;
+}
+
+.title b {
+  font-size: 50px;
+}
+
+.answers {
+  line-height: normal;
   text-transform: uppercase;
+}
+
+.answers.yes { color: green; }
+.answers.no  { color: red; }
+
+.answers .regular {
+  font-size: 50px;
+}
+
+.answers .local {
+  font-size: 30px;
 }
 
 .amounts {
@@ -27,17 +54,31 @@ body {
   justify-content: center;
   list-style: none;
   padding: 0;
+  text-transform: uppercase;
 }
 
 .amounts li {
   box-sizing: border-box;
   font-size: 30px;
+  min-width: 200px;
   padding: 10px;
   width: 33.333%;
 }
 
 .amounts li b {
   font-size: 16px;
+}
+
+.picker {
+  text-transform: uppercase;
+}
+
+.picker select {
+  border: 1px solid #ccc;
+  font-family: 'Lato', serif;
+  font-size: 16px;
+  height: 30px;
+  width: 200px;
 }
 
 footer {

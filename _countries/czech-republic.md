@@ -4,6 +4,7 @@ layout: country
 title: Czech Republic
 flag_url: http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/840px-Flag_of_Mexico.svg.png
 
+answer_class: 'yes'
 answer: Yes!
 local_answer: ¡Sí!
 
