@@ -1,0 +1,5 @@
+<select class="picker" onchange="window.location = this.value;">
+  {% for country in site.countries %}
+    <option value="{{ country.url }}">{{ country.title }}</option>
+  {% endfor %}
+</select>
