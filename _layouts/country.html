@@ -8,16 +8,55 @@ layout: default
 
 <h1>Should I Tip In {{ page.title }}?</h1>
 
-<h2>
-  {{ page.answer }}<br>
-  ({{ page.local_answer }})
-</h2>
+<p>
+  <strong class="answer">
+    {{ page.answer }}
+  </strong>
 
-<div class="amount">
-</div>
+  <br>
+
+  <span class="local-answer">
+    ({{ page.local_answer }})
+  </span>
+</p>
+
+<ul class="amounts">
+  <li>
+    <b>Waiters</b><br>
+    {{ page.amounts.waiters }}
+  </li>
+
+  <li>
+    <b>Bartenders</b><br>
+    {{ page.amounts.bartenders }}
+  </li>
+
+  <li>
+    <b>Taxi Drivers</b><br>
+    {{ page.amounts.taxi_drivers }}
+  </li>
+
+  <li>
+    <b>Luggage Handlers</b><br>
+    {{ page.amounts.luggage_handlers }}
+  </li>
+
+  <li>
+    <b>Housekeepers</b><br>
+    {{ page.amounts.housekeepers }}
+  </li>
+
+  <li>
+    <b>Tour Guides</b><br>
+    {{ page.amounts.tour_guides }}
+  </li>
+</ul>
 
 <p>
   {{ page.extra_info }}
 </p>
 
-{% include picker.html %}
+<p>
+  Should I tip in…<br>
+  {% include picker.html %}
+</p>
