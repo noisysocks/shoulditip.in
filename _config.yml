@@ -1,8 +1,8 @@
-title: Your awesome title
+title: Should I Tip In
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Your waiter brings you your cheque. $20! Not too shabby. But crap. What
+  country am I in? Do I tip here? How much!? Oh God they're staring at me now.
+  Help!! Should I Tip In [Country]?!
 
 markdown: kramdown
 collections:
