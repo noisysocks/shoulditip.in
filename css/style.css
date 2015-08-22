@@ -33,7 +33,7 @@ p {
 }
 
 .answers {
-  line-height: normal;
+  line-height: 2em;
   text-transform: uppercase;
 }
 
@@ -49,17 +49,6 @@ p {
 }
 
 .amounts {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
   list-style: none;
   padding: 0;
   text-transform: uppercase;
@@ -67,7 +56,9 @@ p {
 
 .amounts li {
   box-sizing: border-box;
+  display: inline-block;
   font-size: 30px;
+  margin-right: -3px;
   min-width: 200px;
   padding: 10px;
   width: 33.333%;
