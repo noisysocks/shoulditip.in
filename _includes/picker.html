@@ -1,5 +1,6 @@
 <p class="picker">
   <b>Should I Tip In…</b><br>
+
   <select onchange="window.location = this.value;">
     <option value=""></option>
     {% for country in site.countries %}
@@ -9,4 +10,14 @@
       </option>
     {% endfor %}
   </select>
+
+  <noscript>
+    <style>
+      .picker select { display: none; }
+    </style>
+
+    {% for country in site.countries %}
+      <a href="{{ country.url }}">{{ country.title }}</a>
+    {% endfor %}
+  </noscript>
 </p>
