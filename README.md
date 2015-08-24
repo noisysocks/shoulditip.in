@@ -1,6 +1,6 @@
 # shoulditip.in
 
-This is the complete code for <http://shoulditip.in/>---a simple website to
+This is the complete code for <http://shoulditip.in/>—a simple website to
 help people work out whether or not they're meant to tip in the country they
 find theirselves in.
 
@@ -44,7 +44,7 @@ For each country, I try to answer:
 ## How can I help?
 
 The website is just a Jekyll static site hosted with GitHub Pages. All country
-data is located in the `_countries` directory---one markdown file per country.
+data is located in the `_countries` directory—one markdown file per country.
 If you can code, submit a Pull Request with corrected country data or data for
 a country that we don't have added yet. Otherwise, simply create a new issue
 describing what needs to be changed. In either case, try to provide links to
