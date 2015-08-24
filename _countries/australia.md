@@ -2,7 +2,7 @@
 layout: country
 
 title: Australia
-flag_url: https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1600px-Flag_of_Australia.svg.png
+flag_url: https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg
 
 answer_class: 'no'
 answer: No!
