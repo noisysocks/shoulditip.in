@@ -19,5 +19,5 @@ amounts:
 extra_info: >
   A 15% *service compris* (service included) fee is always included on your
   bill. An additional tip is not customary, although many leave small change or
-  an extra €1 for excellent service.
+  an extra €1 for good service.
 ---

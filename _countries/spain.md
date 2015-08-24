@@ -18,5 +18,5 @@ amounts:
 
 extra_info: >
   Tipping in Spain is not customary, although many leave small change or an
-  extra €1-€2 for excellent service.
+  extra €1-€2 for good service.
 ---
