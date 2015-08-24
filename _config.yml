@@ -9,3 +9,5 @@ collections:
   countries:
     output: true
     permalink: /:path/
+gems:
+  - jekyll-sitemap
