@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="247.957px" height="200px" viewBox="0 0 247.957 200" enable-background="new 0 0 247.957 200" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="247.957" height="200"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#554893" d="M28.07,0C28.07,0,0,0,0,28.069V171.93c0,0,0,28.07,28.07,28.07h175.439
+		c0,0,28.07,0,28.07-28.07V28.069c0,0,0-28.069-28.07-28.069H28.07z"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="11.133,11.133" d="
+		M27.961,17.831c-4.231,2.527-8.232,6.466-10.428,12.603"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="14.474,14.474" x1="15.79" y1="63.084" x2="15.79" y2="142.688"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="11.133,11.133" d="
+		M20.317,173.061c2.527,4.23,6.466,8.232,12.602,10.429"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="14.386,14.386" x1="65.438" y1="185.232" x2="173.333" y2="185.232"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="11.133,11.133" d="
+		M203.617,180.705c4.232-2.528,8.232-6.466,10.428-12.603"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="14.474,14.474" x1="215.791" y1="135.452" x2="215.791" y2="55.847"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="11.133,11.133" d="
+		M211.261,25.475c-2.527-4.23-6.465-8.231-12.604-10.428"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" stroke-dasharray="14.386,14.386" x1="166.14" y1="13.303" x2="58.246" y2="13.303"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="3.509" d="M51.052,13.303H43.86
+		c0,0-2.272,0-5.522,0.646 M193.265,13.704c-1.715-0.261-3.561-0.401-5.547-0.401h-7.191 M215.789,48.61v-7.237
+		c0,0,0-2.272-0.645-5.522 M215.388,162.709c0.262-1.715,0.4-3.561,0.4-5.547v-7.236 M180.527,185.232h7.191
+		c0,0,2.273,0,5.523-0.646 M38.313,184.831c1.715,0.261,3.56,0.401,5.547,0.401h7.192 M15.789,149.926v7.236
+		c0,0,0,2.271,0.646,5.522 M16.191,35.827c-0.261,1.715-0.402,3.56-0.402,5.546v7.237"/>
+	<path clip-path="url(#SVGID_2_)" fill="#554893" d="M245.324,71.197v56.141h-63.158c-35.088,0-35.088-56.141,0-56.141H245.324z"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#ECEBED" stroke-width="5.263" d="M245.324,71.197v56.141h-63.158
+		c-35.088,0-35.088-56.141,0-56.141H245.324z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#ECEBED" d="M180.703,108.771c4.844,0,8.771-3.928,8.771-8.771
+		c0-4.846-3.928-8.773-8.771-8.773c-4.846,0-8.773,3.928-8.773,8.773C171.929,104.844,175.857,108.771,180.703,108.771"/>
+</g>
+</svg>
