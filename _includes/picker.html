@@ -1,8 +1,10 @@
 <p class="picker">
-  <b>Should I Tip In…</b><br>
+  {% if include.label %}
+    <b>Should I Tip In…</b><br>
+  {% endif %}
 
   <select onchange="window.location = this.value;">
-    <option value=""></option>
+    <option value="">Select a country</option>
     {% for country in site.countries %}
       <option value="{{ country.url }}"
               {% if page.url == country.url %}selected{% endif %}>
