@@ -10,13 +10,12 @@ local_answer: ¡Sí!
 
 amounts:
   waiters: 15%
-  bartenders: $1-$2
+  bartenders: $15-$35
   taxi_drivers: '-'
-  luggage_handlers: $1-$2
-  housekeepers: $2-$5
-  tour_guides: $5
+  luggage_handlers: $15-$35
+  housekeepers: $35-$85
+  tour_guides: $85
 
 extra_info: >
-  Prices here are quoted in USD ($), but you will likely be paying in Mexican
-  Pesos (MXN/$).
+  Prices here are quoted in Mexican Pesos ($).
 ---
