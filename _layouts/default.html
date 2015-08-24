@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>
-    Should I Tip In
+    Should I Tip In{% if page.article %} {{ page.article }}{% endif %}
     {% if page.title %}{{ page.title }}{% else %}[Country]{% endif %}?
   </title>
   <meta name="description" content="{{ site.description }}">

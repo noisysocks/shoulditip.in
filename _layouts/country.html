@@ -7,14 +7,15 @@ layout: default
 </p>
 
 <h1 class="title">
-  Should I Tip In<br>
+  Should I Tip In{% if page.article %} {{ page.article }}{% endif %}<br>
   <b>{{ page.title }}?</b>
 </h1>
 
 <p class="answers {{ page.answer_class }}">
   <strong class="regular">{{ page.answer }}</strong>
-  <br>
-  <span class="local">({{ page.local_answer }})</span>
+  {% if page.local_answer %}
+    <br><span class="local">({{ page.local_answer }})</span>
+  {% endif %}
 </p>
 
 <ul class="amounts">
