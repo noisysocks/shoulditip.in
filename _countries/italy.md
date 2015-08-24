@@ -9,7 +9,7 @@ answer: No!
 local_answer: No!
 
 amounts:
-  waiters: '-'
+  waiters: €1
   bartenders: '-'
   taxi_drivers: '-'
   luggage_handlers: '-'
