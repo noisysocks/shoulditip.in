@@ -9,7 +9,7 @@ answer: No!
 local_answer: Yeah nah!
 
 amounts:
-  waiters: '-'
+  waiters: 5-10%
   bartenders: '-'
   taxi_drivers: '-'
   luggage_handlers: '-'
@@ -17,5 +17,6 @@ amounts:
   tour_guides: '-'
 
 extra_info: >
-  Tipping in Australia is not customary, except for *excellent* service.
+  Tipping in Australia is not customary, although many leave an extra few
+  dollars if the service was excellent.
 ---
