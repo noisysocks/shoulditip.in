@@ -6,7 +6,7 @@ flag_url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People
 
 answer_class: 'no'
 answer: No!
-local_answer: 不!
+local_answer: Bù!
 
 amounts:
   waiters: '-'
