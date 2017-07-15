@@ -1,3 +1,6 @@
+**NOTE: I have stopped working on this project and let its domain expire. May
+shoulditip.in rest in peace ⚰️**
+
 # shoulditip.in
 
 This is the complete code for <http://shoulditip.in/>—a simple website to
